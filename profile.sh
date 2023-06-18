@@ -12,6 +12,9 @@ echo ---------------------------------------------------------------
 echo start updating system
 update
 
+echo installing rpi imager
+rpi-imager
+
 echo installing keepassxc
 keepassxc
 
