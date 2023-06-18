@@ -4,7 +4,9 @@ personal garuda_linux setup
 
 echo ------------------------------------------------------
 sudo cp img/background.png /usr/share/grub/themes/garuda-dr460nized/background.png
+
 sudo cp img/bg.png  /usr/share/plymouth/themes/dr460nized/bg.png
+
 sudo cp img/background.png  /home/samir/Documents/
 
 echo ---------------------------------------------------------------
