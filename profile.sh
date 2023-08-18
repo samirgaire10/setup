@@ -28,6 +28,11 @@ echo installing syncthing
 syncthing
 
 
+
+tk 
+pip3 install customtkinter --break-system-packages
+echo it will break the system tho
+
 echo ------------------------------------------------------------------
 echo installing flatpack
 flatpak
